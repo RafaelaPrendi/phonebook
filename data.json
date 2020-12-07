@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "first_name": "Alanson",
+    "last_name": "Hitcham",
+    "type": "work",
+    "number": "786-146-6142"
+}, {
+    "id": 2,
+    "first_name": "Daria",
+    "last_name": "Oxe",
+    "type": "work",
+    "number": "743-807-2916"
+}, {
+    "id": 3,
+    "first_name": "Eamon",
+    "last_name": "Jurges",
+    "type": "home",
+    "number": "272-181-9349"
+}, {
+    "id": 4,
+    "first_name": "Lacie",
+    "last_name": "Briscoe",
+    "type": "home",
+    "number": "465-151-6005"
+}, {
+    "id": 5,
+    "first_name": "Marillin",
+    "last_name": "Barwis",
+    "type": "work",
+    "number": "266-695-9472"
+}, {
+    "id": 6,
+    "first_name": "Eveline",
+    "last_name": "Scholz",
+    "type": "home",
+    "number": "679-191-6334"
+}, {
+    "id": 7,
+    "first_name": "Dulciana",
+    "last_name": "Dudleston",
+    "type": "home",
+    "number": "353-976-8391"
+}, {
+    "id": 8,
+    "first_name": "Prentiss",
+    "last_name": "Smurfit",
+    "type": "work",
+    "number": "112-166-7108"
+}, {
+    "id": 9,
+    "first_name": "Zena",
+    "last_name": "Ferrari",
+    "type": "home",
+    "number": "224-166-4666"
+}, {
+    "id": 10,
+    "first_name": "Billi",
+    "last_name": "Warlowe",
+    "type": "work",
+    "number": "141-871-2547"
+}, {
+    "id": 11,
+    "first_name": "Netty",
+    "last_name": "Oldknow",
+    "type": "work",
+    "number": "266-567-3981"
+}, {
+    "id": 12,
+    "first_name": "Ulrikaumeko",
+    "last_name": "Roxby",
+    "type": "work",
+    "number": "949-225-5050"
+}, {
+    "id": 13,
+    "first_name": "Keene",
+    "last_name": "Winslet",
+    "type": "home",
+    "number": "155-670-0619"
+}, {
+    "id": 14,
+    "first_name": "Sherline",
+    "last_name": "Barden",
+    "type": "work",
+    "number": "952-344-3197"
+}, {
+    "id": 15,
+    "first_name": "Salvatore",
+    "last_name": "Goble",
+    "type": "work",
+    "number": "162-443-3578"
+}, {
+    "id": 16,
+    "first_name": "Mischa",
+    "last_name": "De Caroli",
+    "type": "work",
+    "number": "865-745-1382"
+}, {
+    "id": 17,
+    "first_name": "Bridie",
+    "last_name": "Leitch",
+    "type": "home",
+    "number": "461-976-6740"
+}, {
+    "id": 18,
+    "first_name": "Sandie",
+    "last_name": "Rate",
+    "type": "home",
+    "number": "837-516-0178"
+}, {
+    "id": 19,
+    "first_name": "Levi",
+    "last_name": "Belliss",
+    "type": "work",
+    "number": "404-764-6069"
+}, {
+    "id": 20,
+    "first_name": "Paxon",
+    "last_name": "Wurz",
+    "type": "work",
+    "number": "138-785-7248"
+}]
